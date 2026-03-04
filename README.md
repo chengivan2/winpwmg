@@ -1,6 +1,6 @@
 # CLI Password Manager - Developer Documentation
 
-A secure, CLI-based password manager built with Python and SQLite 3.
+A secure, CLI-based password manager built with Python and SQLite 3. It allows users to securely store, retrieve, update, and delete credentials for specific URLs, protected by a master password with strict lockout policies for both login and sensitive operations.
 
 ## Project Structure
 
